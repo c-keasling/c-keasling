@@ -7,7 +7,7 @@ Hello, my name is Cody, Keasling.
 
 # Hi there! 👋 Welcome to my GitHub Profile! ✨
 
-## <img src="./assets/waving-hand.webp" width="4%"> My name is Cody, an aspiring Programer. <img src="./assets/waving-hand.webp" width="4%">
+## <img src="./Quote.jpg" width="4%"> My name is Cody, an aspiring Programer. <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="center">
     <img width="90%" src="./assets/quote1-d.jpeg">
