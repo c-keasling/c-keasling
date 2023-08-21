@@ -10,7 +10,7 @@ Hello, my name is Cody, Keasling.
 ## <img src="./Quote.jpg" width="4%"> My name is Cody, an aspiring Programer. <img src="./assets/waving-hand.webp" width="4%">
 
 <div align="center">
-    <img width="90%" src="./assets/quote1-d.jpeg">
+    <img width="90%" src="./Quote.jpg">
 </div>
 
 📖 I grew up in a quaint rural town outside the bustling city of Las Vegas. In my town, tech enthusiasts and businesses were few and far between. It wasn't until my high school graduation in 2012 that my intrigue for technology truly ignited. 🌟
