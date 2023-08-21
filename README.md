@@ -5,9 +5,9 @@
 Hello, my name is Cody, Keasling.
 -->
 
-# Hi there! 👋 Welcome to my GitHub Profile! ✨
+# Hi there! 👋 Welcome to my GitHub Profile! 🎆
 
-## <img src="./Quote.jpg" width="4%"> My name is Cody, an aspiring Programer. <img src="./assets/waving-hand.webp" width="4%">
+## <img src="./waving-hand.webp" width="4%"> My name is Cody, an aspiring Programmer. <img src="./waving-hand.webp" width="4%">
 
 <div align="center">
     <img width="90%" src="./Quote.jpg">
@@ -20,22 +20,22 @@ Hello, my name is Cody, Keasling.
 📖 Fast forward to August 2022, that's when I genuinely delved into the world of programming and coding. Starting with SQL and Python for data science, I found my rhythm, continuously experimenting and learning through projects. It's been a fulfilling and insightful adventure! 🤓
 
 📖 By January 2023, I earned the title of a Data Analyst with Amazon.
- Since then, I've embarked on numerous projects to bolster operations. Our primary tool? Excel VBA macros, crafted to ensure even the least tech-savvy can wield them with ease. Beyond that, I've been migrating data to Redshift clusters and extracting that data for Quicksight dashboards using SQL. 🙏🏻
+ Since then, I've embarked on numerous projects to bolster operations. Our primary tool? Excel VBA macros, crafted to ensure even the least tech-savvy can wield them with ease. Beyond that, I've been migrating data to Redshift clusters and extracting that data for Quicksight dashboards using SQL. 🖥️
 
-📖 Today, I relish the process of exploring new technologies and diving into fresh programming languages. Each personal project I undertake brings immense pride and joy. Currently, I'm navigating through a software development course with Correlation One, with an aim to craft a fully-fledged website. 🌐
+📖 Today, I relish the process of exploring new technologies and diving into fresh programming languages. 	🤖 Each personal project I undertake brings immense pride and joy. Currently, I'm navigating through a software development course with Correlation One, with an aim to craft a fully-fledged website. 🌐
 
 📖 Self-learning remains an invaluable and delightful facet of my life.  I've found GitHub to be an incredible platform to chronicle my evolution from a novice to an expert. Eager to document each step and share my ventures, I hope my journey can light the way for others, just as I've been enlightened by many before me. ✨
 
 <div align="center">
-    <img width="60%" src="./assets/quote2.jpeg">
+    <img width="60%" src="./Quote2.jpg">
 </div>
 
 <div>
-  <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
+  <p align="center" style="font-size: 2.5rem">⛰️⛰️⛰️⛰️<p>
 </div>
 
 ## 🛠 Languages and Tools
-📖 I have been learning and exploring these following tools and languages
+📚 I have been learning and exploring these following tools and languages
 
 <div align="center"> 
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
